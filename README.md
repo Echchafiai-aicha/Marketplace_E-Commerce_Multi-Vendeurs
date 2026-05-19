@@ -23,7 +23,7 @@
 <div align="center">
   <img src="images/vitrine.png" alt="Vitrine publique" width="800" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
   <br/>
-  <em>Figure 1 : Vitrine publique - Liste des produits par catégorie</em>
+  <em>Figure 3 : Vitrine publique - Liste des produits par catégorie</em>
 </div>
 
 <br/>
@@ -31,7 +31,7 @@
 <div align="center">
   <img src="images/dashboard_vendeur.png" alt="Dashboard vendeur" width="800" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
   <br/>
-  <em>Figure 2 : Espace vendeur - Tableau de bord et chiffre d'affaires</em>
+  <em>Figure 4 : Espace vendeur - Tableau de bord et chiffre d'affaires</em>
 </div>
 
 
