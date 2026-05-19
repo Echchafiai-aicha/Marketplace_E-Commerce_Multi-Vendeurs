@@ -13,6 +13,19 @@
   <br/>
   <em>Figure 1 : Page de connexion - Authentification utilisateur</em>
 </div>
+<div align="center">
+  <img src="images/panier.png" alt="Interface du panier" width="800" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+  <br/>
+  <em>Figure 2 : Interface du panier et validation de commande</em>
+</div>
+
+<div align="center">
+  <img src="images/vitrine.png" alt="Vitrine publique" width="800" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+  <br/>
+  <em>Figure 3 : Vitrine publique - Liste des produits par catégorie</em>
+</div>
+
+<br/>
 
  
 <div align="center">
